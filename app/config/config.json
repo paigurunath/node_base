@@ -1,0 +1,47 @@
+{
+    "development1": {
+        "username": "uqbzdfup",
+        "password": "mtw3idr2IGbEKNp6MkmJzCHG1C56QRGC",
+        "database": "uqbzdfup",
+        "host": "pellefant-02.db.elephantsql.com",
+        "dialect": "postgres",
+        "port": 5432,
+        "jwtSecret": "uqbzdfup"
+    },
+    "development": {
+        "username": "postgres",
+        "password": "root",
+        "database": "dairy",
+        "host": "localhost",
+        "dialect": "postgres",
+        "port": 5432,
+        "jwtSecret": "dairy2home"
+    },
+    "staging": {
+        "username": "postgres",
+        "password": "root",
+        "database": "dairy",
+        "host": "localhost",
+        "dialect": "postgres",
+        "port": 5432,
+        "jwtSecret": "dairy2home"
+    },
+    "test": {
+        "username": "uqbzdfup",
+        "password": "mtw3idr2IGbEKNp6MkmJzCHG1C56QRGC",
+        "database": "uqbzdfup",
+        "host": "pellefant-02.db.elephantsql.com",
+        "dialect": "postgres",
+        "port": 5432,
+        "jwtSecret": "uqbzdfup"
+    },
+    "production": {
+        "username": "admin",
+        "password": "SONALXQHPCVLVUBB",
+        "database": "compose",
+        "host": "sl-eu-lon-2-portal.7.dblayer.com",
+        "dialect": "postgres",
+        "port": 24336,
+        "jwtSecret": "dairy2home"
+    }
+}
